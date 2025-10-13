@@ -1,4 +1,15 @@
 {
+  "files": [
+    {
+      "pattern": "notebooks/**/*.ipynb"
+    },
+    {
+      "pattern": "data/**/*.csv"
+    },
+    {
+      "pattern": "data/**/*.xlsx"
+    }
+  ],
   "jupyter-config-data": {
     "appName": "JupyterLite",
     "appUrl": "./lab/index.html",
